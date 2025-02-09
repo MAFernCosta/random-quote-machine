@@ -39,7 +39,7 @@ function App(){
             <button id='new-quote' className='btn' onClick={newQuote} style={buttonStyle} >New quote</button>
             <div className='d-flex justify-content-md-between'>
               <a 
-                href={`twitter.com/intent/tweet?hashtags=quotes&text="${messageToShare}"`} 
+                href={`https://twitter.com/intent/tweet?hashtags=quotes&text="${messageToShare}"`} 
                 target="_blank" 
                 id='tweet-quote' 
                 className='btn fs-3 text-center mx-1' 
