@@ -1,65 +1,63 @@
-Random Quote Machine
+# Random Quote Machine
 
-Description
+## Description
 
 The Random Quote Machine is a simple web application that generates random quotes. Users can generate new quotes at the click of a button and share them on Twitter. This project is built using React for the frontend and styled with Bootstrap CSS.
 
 This was a project that I made for the Frontend Certification project at freeCodeCamp, and it's my first project using React and Bootstrap.
 
-Features
+## Features
 
-Generate random quotes with a button click.
+- Generate random quotes with a button click.
+- Share quotes on Twitter.
+- Responsive design using Bootstrap.
 
-Share quotes on Twitter.
+## Technologies Used
 
-Responsive design using Bootstrap.
+- **React** – For building the user interface.
+- **Bootstrap** – For styling and responsive design.
+- **JavaScript (ES6+)** – For logic and functionality.
+- **HTML & CSS** – For structure and styling.
 
-Technologies Used
-
-React – For building the user interface.
-
-Bootstrap – For styling and responsive design.
-
-JavaScript (ES6+) – For logic and functionality.
-
-HTML & CSS – For structure and styling.
-
-Installation
+## Installation
 
 Clone this repository:
 
+```bash
 git clone https://github.com/your-username/random-quote-machine.git
-
+```
 Navigate to the project folder:
 
+```bash
 cd random-quote-machine
+```
 
 Install dependencies:
 
+```bash
 npm install
+```
 
 Start the development server:
 
+```bash
 npm start
+```
 
-Usage
+## Usage
 
-Click the New Quote button to generate a random quote.
+* Click the New Quote button to generate a random quote.
 
-Click the Twitter button to share the current quote on Twitter.
+* Click the Twitter button to share the current quote on Twitter.
 
-Live Demo
+## Live Demo
 
-Check out the live version here (Replace with the actual deployed link if available)
+Check out the live version <a href="https://maferncosta.github.io/random-quote-machine/">here</a>  
 
-Screenshots
-
-(Optional: Add screenshots of your app here)
-
-Contributing
+## Contributing
 
 If you would like to contribute, feel free to fork the repository and submit a pull request.
 
-License
+## License
 
 This project is licensed under the MIT License.
